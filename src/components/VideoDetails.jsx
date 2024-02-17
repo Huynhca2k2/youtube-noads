@@ -51,6 +51,7 @@ export default function VideoDetails() {
               width='100%'
               height='100%'
               style={{ backgroundColor: '#000'}}
+              playing
             />
           </div>
           <div className="dark:text-white font-bold text-sm md:text-xl mt-4 line-clamp-2">
